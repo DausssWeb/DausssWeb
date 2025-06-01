@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently I am studying at **STMIK MARDIRA INDONESIA**🧑‍💻
-- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 
-![Programmer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlMThlb24xeDgwczR1dzNreGF1aTlnZjdqemVxbGs2bjk1M3JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+- 🔭 Currently I am studying at **STMIK MARDIRA INDONESIA**🧑‍💻  
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework  
+  ![Programmer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlMThlb24xeDgwczR1dzNreGF1aTlnZjdqemVxbGs2bjk1M3JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)

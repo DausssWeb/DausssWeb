@@ -1,6 +1,6 @@
 ## Hello World I'm Faisal Rahmat Firdaus 👋
 
-![DausssWeb](img/DausssWeb.jpg)
+![DausssWeb](img/dausssweb2.jpg)
 
 <!--
 **DausssWeb/DausssWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

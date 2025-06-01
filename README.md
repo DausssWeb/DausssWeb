@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 
 
 - 📫 How to reach me: [**faisalrf2206@gmail.com**](mailto:faisalrahmatfirdaus@gmail.com)
-  ![Programmer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlMThlb24xeDgwczR1dzNreGF1aTlnZjdqemVxbGs2bjk1M3JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+   ![Programmer](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlMThlb24xeDgwczR1dzNreGF1aTlnZjdqemVxbGs2bjk1M3JyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)

@@ -56,8 +56,6 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DausssWeb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DausssWeb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-faisals-projects-882a1a26.vercel.app/api?username=DausssWeb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DausssWeb&theme=tokyonight&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=DausssWeb&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats-faisals-projects-882a1a26.vercel.app/api/top-langs/?username=DausssWeb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
